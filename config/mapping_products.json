@@ -1,0 +1,15 @@
+{
+  "columns": [
+    { "source": "Index", "target": "product_id" },
+    { "source": "Name", "target": "name" },
+    { "source": "Description", "target": "desc_short" },
+    { "source": "Brand", "target": "brand" },
+    { "source": "Category", "target": "category" },
+    { "source": "Price", "target": "price" },
+    { "source": "Stock", "target": "stock" },
+    { "source": "EAN", "target": "ean" },
+    { "source": "Color", "target": "color" },
+    { "source": "Size", "target": "size" },
+    { "source": "Availability", "target": "availability" }
+  ]
+}
